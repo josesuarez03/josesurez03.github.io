@@ -1,1 +1,8 @@
 site_name: MkLorum
+
+theme:
+  name: readthedocs
+  nav_style: dark
+
+nav:
+  - Inicio: 'index.md'
